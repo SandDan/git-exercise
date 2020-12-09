@@ -1,2 +1,2 @@
 # git-exercise
-Hello World!
+Hello World! This stuff is crazy, but I enjoy it.
